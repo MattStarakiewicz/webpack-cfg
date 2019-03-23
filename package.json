@@ -1,0 +1,30 @@
+{
+  "name": "webpack-cfg",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "dependencies": {
+    "webpack-cli": "^3.3.0",
+    "webpack": "^4.29.6"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "webpack"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MattStarakiewicz/webpack-cfg.git"
+  },
+  "keywords": [
+    "webpack",
+    "js",
+    "cli"
+  ],
+  "author": "Matt Star",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MattStarakiewicz/webpack-cfg/issues"
+  },
+  "homepage": "https://github.com/MattStarakiewicz/webpack-cfg#readme"
+}
